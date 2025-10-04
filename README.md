@@ -1,6 +1,3 @@
-Got it! I’ll update the `README.md` to include the PowerShell command that starts Ollama in the background and then runs your chatbot. Here’s the revised version:
-
-````markdown
 # ChatBuddy 🤖 - Rule-Based & AI-Powered Chatbot
 
 ## Overview
