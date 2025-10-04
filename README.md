@@ -107,5 +107,4 @@ ChatBuddy: Goodbye! Have a great day! 👋
 
 This project is open-source and free to use. No warranty implied.
 
-Do you want me to do that?
 ```
